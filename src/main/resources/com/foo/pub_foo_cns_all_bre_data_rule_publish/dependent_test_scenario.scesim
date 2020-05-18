@@ -232,7 +232,7 @@
       <dmoSession>ksession</dmoSession>
       <type>RULE</type>
       <skipFromBuild>false</skipFromBuild>
-      <stateless>false</stateless>
+      <stateless>true</stateless>
     </simulationDescriptor>
     <scenarios>
       <Scenario>
