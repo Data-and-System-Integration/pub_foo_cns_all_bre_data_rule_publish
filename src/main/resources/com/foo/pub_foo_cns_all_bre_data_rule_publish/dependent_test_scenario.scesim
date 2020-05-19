@@ -229,7 +229,6 @@
           <columnWidth>114.0</columnWidth>
         </FactMapping>
       </factMappings>
-      <dmoSession>ksession</dmoSession>
       <type>RULE</type>
       <skipFromBuild>false</skipFromBuild>
       <stateless>false</stateless>
