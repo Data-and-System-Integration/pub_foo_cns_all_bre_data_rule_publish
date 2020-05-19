@@ -1,5 +1,1 @@
-<kmodule xmlns="http://www.drools.org/xsd/kmodule" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <kbase name="kiebase1" default="true" eventProcessingMode="cloud" equalsBehavior="identity" packages="com.foo.pub_foo_cns_all_bre_data_rule_publish" includes="kiebase1">
-    <ksession name="ksession" type="stateful" default="true" clockType="realtime"/>
-  </kbase>
-</kmodule>
+<kmodule xmlns="http://www.drools.org/xsd/kmodule" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
